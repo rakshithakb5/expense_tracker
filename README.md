@@ -26,7 +26,7 @@ Stores expenses in a CSV file and supports adding, viewing, and searching expens
 
 ### 1. Compile the code
 gcc expense_tracker.c -o expense_tracker
-    2. Run the program
+### 2. Run the program
 ./expense_tracker
 
 
